@@ -1,6 +1,7 @@
 # 📊 Kimball vs Inmon: A Hands-On Comparison Using Star and Snowflake Schemas in PostgreSQL
 
-> A real-world experiment comparing the performance, structure, and usability of **star** vs. **snowflake** schema models using PostgreSQL and the same raw dataset.
+> A real-world experiment comparing the performance, structure, and usability of **star** vs. **snowflake** schema models using PostgreSQL and the same raw dataset. Read about it here!
+https://medium.com/@micowly/kimball-vs-inmon-a-hands-on-comparison-using-star-and-snowflake-schemas-in-postgresql-bbb40e27ab54
 
 ---
 
